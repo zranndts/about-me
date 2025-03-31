@@ -1,6 +1,3 @@
-# hello-git
-# Hey there! 👋
-
 Welcome to my lil' repo 🌱  
 This is literally just me testing how GitHub works (yaay first commit 🎉)
 
